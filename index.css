@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(168, 168, 211);
+  padding: 22px 0;
+  color: aliceblue;
+}
+
+.nav-ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-ul li {
+  padding: 0 26px;
+}
